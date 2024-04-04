@@ -94,7 +94,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![output](output.png)
+![Screenshot 2024-04-04 173856](https://github.com/jagadeesh9500/ORM/assets/149087921/808b70e9-2d79-45b0-a9e0-eb2bf826c137)
 
 
 ## RESULT
