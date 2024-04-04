@@ -63,8 +63,8 @@ Push the changes in the branch github repository by the command git push origin 
 ## PROGRAM
 
 ```
-Developed by: JAGADEESH P
-register number: 212223230083
+Developed by: PREM KUMAR G
+register number: 212223230158
 admin.py
 
 from django.contrib import admin
