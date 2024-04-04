@@ -63,7 +63,7 @@ Push the changes in the branch github repository by the command git push origin 
 ## PROGRAM
 
 ```
-Developed by: PREM KUAMR G
+Developed by: JAGADEESH P
 register number: 212223230083
 admin.py
 
